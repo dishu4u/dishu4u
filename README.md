@@ -5,18 +5,37 @@
 
 # 🚀 About Me
 
-- 🌱 Learning Java Development
-- 🎮 Building The-Pacman-Game
-- 💻 Interested in Open Source
-- 🚀 Exploring GitHub and Project Management
+👨‍💻 Aspiring Software Developer focused on Java & Web Technologies  
+📚 Currently strengthening skills in Full Stack Development  
+🧩 Building projects like The-Pacman-Game to enhance problem-solving  
+🌍 Passionate about Open Source contribution and collaboration  
+📈 Exploring GitHub workflows, version control, and project management  
+🚀 Continuously learning, building, and improving development skills  
 
 ---
 
 # 🛠️ Tech Stack
 
-- Java
-- Git & GitHub
-- Swing/AWT
+-🧠 Programming Languages  
+- Java  
+- JavaScript  
+- HTML, CSS  
+
+⚙️ Tools & Development Environment  
+- Git & GitHub  
+- VS Code  
+- IntelliJ IDEA  
+- Android Studio  
+
+🎨 UI/UX & Design  
+- Figma  
+- Canva  
+
+🖥️ Java Development  
+- Swing / AWT  
+
+⚛️ Frontend (Learning)  
+- React  
 
 ---
 
