@@ -1,33 +1,32 @@
 
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= HERO HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?
 type=waving&
-color=0:0ea5e9,100:38bdf8&
-height=320&
+color=0:0f172a,100:38bdf8&
+height=280&
 section=header&
-text=Dishu%20Rana&
-fontSize=60&
+text=Hi%20👋%20I'm%20Dishu&
+fontSize=55&
 fontColor=ffffff&
 animation=fadeIn&
 fontAlignY=38&
-desc=Java%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20Open%20Source%20Enthusiast&
+desc=Java%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Full%20Stack%20Learner&
 descAlignY=60&
-descSize=20" />
+descSize=18" />
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 
-<p align="center" style="font-size:16px;">
-I am a passionate <b>Software Developer</b> focused on building real-world applications using <b>Java and Web Technologies</b>.  
-My goal is to continuously improve my problem-solving skills and grow as a strong Full Stack Developer.
-</p>
-
-<p align="center" style="font-size:16px;">
-Currently, I am exploring <b>Full Stack Development</b>, strengthening my fundamentals in <b>Data Structures, Git/GitHub workflows</b>,  
-and building projects like <b>The Pacman Game</b> to improve logic building.
+<p align="center">
+👨‍💻 Aspiring Software Developer focused on <b>Java & Web Technologies</b><br>
+📚 Currently strengthening skills in <b>Full Stack Development</b><br>
+🧩 Building real projects like <b>The Pacman Game</b><br>
+🌍 Passionate about <b>Open Source Contribution</b><br>
+📈 Learning Git, GitHub & Development Workflows<br>
+🚀 Always building, learning, and improving
 </p>
 
 ---
@@ -36,7 +35,7 @@ and building projects like <b>The Pacman Game</b> to improve logic building.
 
 <p align="center">
 
-<b>💻 Programming Languages</b><br>
+<b>🧠 Programming Languages</b><br>
 Java • JavaScript • HTML • CSS
 
 <br><br>
@@ -51,6 +50,11 @@ Figma • Canva
 
 <br><br>
 
+<b>🖥️ Java Development</b><br>
+Swing • AWT
+
+<br><br>
+
 <b>⚛️ Frontend (Learning)</b><br>
 React.js
 
@@ -58,7 +62,7 @@ React.js
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
+<h2 align="center">📌 Featured Project</h2>
 
 <p align="center">
 <b>🎮 The Pacman Game</b>
@@ -66,35 +70,27 @@ React.js
 
 <p align="center">
 A Java-based arcade game built using <b>Swing & AWT</b>.<br>
-Focused on improving logic building, game mechanics, and OOP concepts.
+Focused on logic building, game design, and OOP concepts.
 </p>
 
 <p align="center">
-✔ Game loop system <br>
-✔ Collision detection logic <br>
-✔ Score tracking system <br>
-✔ Clean modular structure
+✔ Game loop system<br>
+✔ Collision detection logic<br>
+✔ Score tracking system<br>
+✔ Clean modular architecture
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishu4u&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishu4u&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dishu4u&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishu4u&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishu4u&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🧠 Developer Mindset</h2>
-
-<p align="center" style="font-size:16px;">
-🚀 Code → Break → Learn → Fix → Improve → Repeat
 </p>
 
 ---
@@ -104,11 +100,11 @@ Focused on improving logic building, game mechanics, and OOP concepts.
 <p align="center">
 
 <a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-38bdf8?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/dishu4u">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -117,5 +113,9 @@ Focused on improving logic building, game mechanics, and OOP concepts.
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:38bdf8,100:0f172a&
+height=120&
+section=footer" />
 </p>
