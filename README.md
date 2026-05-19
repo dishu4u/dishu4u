@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Siddharth Rana</h1>
+<h3 align="center">Java Developer | Open Source Enthusiast | GSSoC Project Admin Applicant</h3>
 
-<!--
-**dishu4u/dishu4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Java Development
+- 🎮 Building The-Pacman-Game
+- 💻 Interested in Open Source
+- 🚀 Exploring GitHub and Project Management
+
+---
+
+# 🛠️ Tech Stack
+
+- Java
+- Git & GitHub
+- Swing/AWT
+
+---
+
+# 📌 Featured Project
+
+## 🎮 The-Pacman-Game
+
+Classic Pac-Man Game built using Java Swing/AWT with open-source collaboration support.
+
+⭐ Open for Contributions
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/dishu4u
