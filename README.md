@@ -1,24 +1,5 @@
-
-<!-- ================= HERO WITH GRAPHIC BACKGROUND ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=waving&
-color=0:0ea5e9,100:38bdf8&
-height=300&
-section=header&
-text=Hi%20👋,%20I'm%20Dishu&
-fontSize=55&
-fontColor=ffffff&
-animation=fadeIn&
-fontAlignY=35&
-desc=Java%20Developer%20|%20Open%20Source%20Enthusiast%20|%20GSSoC%20Project%20Admin%20Applicant&
-descAlignY=60&
-descSize=18" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer;Open+Source+Enthusiast;Full+Stack+Learner;Building+The+Pacman+Game" />
-</p>
+<h1 align="center">Hi 👋, I'm Dishu </h1>
+<h3 align="center">Java Developer | Open Source Enthusiast | GSSoC Project Admin Applicant</h3>
 
 ---
 
@@ -35,7 +16,7 @@ descSize=18" />
 
 # 🛠️ Tech Stack
 
-- 🧠 Programming Languages  
+-🧠 Programming Languages  
 - Java  
 - JavaScript  
 - HTML, CSS  
@@ -68,27 +49,6 @@ Classic Pac-Man Game built using Java Swing/AWT with open-source collaboration s
 
 ---
 
-# 📊 GitHub Stats (Interactive Cards)
+# 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishu4u&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishu4u&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishu4u&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20A%20Message-38bdf8?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/dishu4u">
-    <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+- GitHub: https://github.com/dishu4u
