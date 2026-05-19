@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Rana</h1>
+<h1 align="center">Hi 👋, I'm Dishu </h1>
 <h3 align="center">Java Developer | Open Source Enthusiast | GSSoC Project Admin Applicant</h3>
 
 ---
